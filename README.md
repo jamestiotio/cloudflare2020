@@ -1,6 +1,7 @@
 # Cloudflare Workers Internship Application: Full-Stack
 
 Submission by James Raphael Tiovalen
+
 Site deployed at: https://cloudflare2020.jamestiotio.workers.dev
 
 ## What is it?
